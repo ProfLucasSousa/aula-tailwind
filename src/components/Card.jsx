@@ -3,7 +3,7 @@ const Card = () => {
       <div className="w-full max-w-md bg-white shadow-xl rounded-2xl overflow-hidden">
         <img
           className="w-full h-60 object-cover"
-          src="https://source.unsplash.com/400x300/?technology"
+          src="https://picsum.photos/1200"
           alt="Imagem Ilustrativa"
         />
         <div className="p-6 text-center">

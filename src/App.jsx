@@ -1,4 +1,4 @@
-import Card from "./componentsCard";
+import Card from "./components/Card";
 
 function App() {
   return (
